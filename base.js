@@ -8,7 +8,7 @@ function isEvenOrOdd(inputNumber) {
     }
     console.log("Il numero "+inputNumber+" ae' " + result)
 }
-
+ 
 isEvenOrOdd(6);
 isEvenOrOdd(7);
 
